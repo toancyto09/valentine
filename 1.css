@@ -99,11 +99,11 @@ span {
 .close-layerMask2:hover {
     color: #f4f4f4;
 }
-/*.center_picturem{
+.center_picturem{
     display: flex;
     align-items: center;
     justify-content: center;
-}*/
+}
 
 #picture_men{
     width: 360px;
